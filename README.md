@@ -4,3 +4,4 @@ This app provides high level demographic and economic data for every town, city,
 
 The code here pulls demographic data through the two Census APIs (ACS data through tidycensus, and LODES data through LEHD), and other datasets compiled and updated annually through different North Carolina government sources. 
 
+The app can be accessed here: https://dfi-uncsog.shinyapps.io/DFI_Community_Scan_Database/
